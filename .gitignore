@@ -1,0 +1,19 @@
+# Ignore virtual environment folder
+venv/
+snake_venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VS Code workspace settings (if using VS Code)
+.vscode/
+
+# MacOS files
+.DS_Store
